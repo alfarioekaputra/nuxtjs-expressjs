@@ -18,7 +18,8 @@
     "express": "^4.16.4",
     "knex": "^0.20.13",
     "nuxt": "^2.0.0",
-    "pg": "^8.0.2"
+    "pg": "^8.0.2",
+    "tiptap-vuetify": "^2.13.2"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.0.0",
