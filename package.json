@@ -16,7 +16,7 @@
     "body-parser": "^1.19.0",
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
-    "knex": "^0.20.13",
+    "knex": "^2.4.0",
     "nuxt": "^2.0.0",
     "pg": "^8.0.2",
     "tiptap-vuetify": "^2.13.2"
